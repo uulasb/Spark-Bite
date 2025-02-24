@@ -9,7 +9,7 @@ SparkBite turns questions like “How can I learn Python” into ~150-word, 60-s
 ## Features
 - **Input**: Any prompt (e.g., “How can I learn Python”).
 - **Output**: 60-second video—~150-word script, narrated audio, 5x subject-focused scenes.
-- **Tech**: Mistral, ElevenLabs, fal.ai, Supabase, React—built solo in ~24 hours.
+- **Tech**: Mistral, ElevenLabs, fal.ai, Supabase, React—built solo with Lovable.
 
 ## Prerequisites
 - Node.js (~18.x or later)
