@@ -20,5 +20,7 @@ SparkBite turns questions like “How can I learn Python” into ~150-word, 60-s
   - fal.ai API ([fal.ai](https://fal.ai))
 
 ## Try It Out
+
 Video Demo: https://www.youtube.com/watch?v=zNEwuwVpARo
+
 Live App: https://sparkbite.vercel.app/
